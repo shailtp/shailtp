@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shail Patel</h1>
-<h3 align="center">A passionate Software Engineer from San Francisco, California</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shailtp&label=Profile%20views&color=0e75b6&style=flat" alt="shailtp" /> </p>
+<h3 align="center">A passionate Software and AI/ML Engineer from San Francisco, California</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailtp" alt="shailtp" /></a> </p>
 
-- 🔭 I’m currently working on [A Software which supports handling multi-file context in LLM's](https://github.com/shailtp/Multi-file-context-LLM)
+- I’m currently working on [A Software which supports handling multi-file context in LLM's](https://github.com/shailtp/Multi-file-context-LLM)
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- I’m currently learning **Natural Language Processing**
 
-- 👨‍💻 All of my projects are available at [https://shaillpatell.netlify.app](https://shaillpatell.netlify.app)
+- My Portfolio website: [https://shaillpatell.netlify.app](https://shaillpatell.netlify.app)
 
-- 📫 How to reach me **patelshail233@gmail.com**
+- How to reach me **patelshail233@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
