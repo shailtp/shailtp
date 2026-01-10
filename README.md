@@ -9,7 +9,7 @@
 
 I am a **Computer Scientist** specializing in building **scalable AI/ML solutions** and **predictive Data Science systems**. My background bridges the gap between data science and AI engineering, with a specific focus on **Predictive Data science systems**, **Transformer models**, **Retrieval Augmented Generation (RAG)**, **RecSys**, and **Multi-Agent Orchestration**.
 
-I specialize in translating complex data into measurable business impact, from developing RAG pipelines for contextual course ranking to fine-tuning LLMs with **LoRA** for e-commerce search relevancy. I am highly proficient in **Python (PyTorch, TensorFlow)**, **C/C++ (OpenMP)**, and **MLOps (AWS, Docker, Kubernetes)** to deploy production-ready, low-latency inference services.
+I specialize in translating complex data into measurable business impact, from developing RAG pipelines for contextual course ranking to fine-tuning LLMs with **LoRA (Low Rank Adaptation)** for e-commerce search relevancy. I am highly proficient in **Python (PyTorch, TensorFlow)**, **C/C++ (OpenMP)**, and **MLOps (AWS, Docker, Kubernetes)** to deploy production-ready, low-latency inference services.
 
 ---
 
