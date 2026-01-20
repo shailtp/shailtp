@@ -21,7 +21,7 @@ I specialize in translating complex data into measurable business impact, from d
 
 ### **AI/ML & Development Frameworks**
 * **AI/ML**: LangChain, PyTorch, Scikit-learn, Model Context Protocol (MCP), Hugging Face, TensorFlow
-* **Frameworks**: FastAPI, Streamlit, Node.js, React.js, Django, OpenMP
+* **Frameworks**: FastAPI, Streamlit, Node.js, OpenMP (Parallel Computing)
 
 ### **DevOps & MLOps**
 * **Tools**: Docker, Kubernetes, Git, CI/CD (GitHub Actions, Jenkins)
