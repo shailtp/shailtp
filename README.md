@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shail Patel</h1>
-<h3 align="center">Computer Scientist | Data science, AI/ML engineering & Inference services</h3>
+<h1 align="center">Hi 👋, I'm Shail</h1>
+<h3 align="center">Graduate Computer Scientist |AI/ML & Systems/Backend Engineer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=shailtp&label=Profile%20views&color=0e75b6&style=flat" alt="shailtp" /> 
