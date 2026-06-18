@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shail</h1>
 <h3 align="center">Graduate Computer Scientist | AI/ML & Systems/Backend Engineer</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shailtp&label=Profile%20views&color=0e75b6&style=flat" alt="shailtp" /> 
-</p>
 
-## 🚀 Professional Summary
+
+##  Professional Summary
 
 I am a **Computer Scientist** specializing in building **scalable AI/ML solutions** and **predictive Data Science systems**. My background bridges the gap between data science and AI engineering, with a specific focus on **Predictive Data science systems**, **Transformer models**, **Retrieval Augmented Generation (RAG)**, **RecSys**, and **Multi-Agent Orchestration**.
 
@@ -13,7 +11,7 @@ I specialize in translating complex data into measurable business impact, from d
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 ### **Programming & Databases**
 * **Languages**: Python, C/C++, JavaScript
@@ -29,7 +27,7 @@ I specialize in translating complex data into measurable business impact, from d
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 * **Portfolio**: [shaillpatell.netlify.app](https://shaillpatell.netlify.app)
 * **Email**: [patelshail233@gmail.com](mailto:patelshail233@gmail.com)
 * **LinkedIn**: [linkedin.com/in/shailtp](https://www.linkedin.com/in/shail-patel-0954871aa/)
